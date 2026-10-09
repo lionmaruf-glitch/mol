@@ -1,0 +1,7 @@
+{
+  "name": "Oman Labour Court Evidence & Legal Dossier",
+  "description": "Comprehensive Arabic legal memorandum, evidence portfolio, shortage refutation, and PDF generator for Oman Ministry of Labour and Labour Court case study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
