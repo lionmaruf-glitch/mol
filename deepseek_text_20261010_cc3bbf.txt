@@ -1,0 +1,13 @@
+htdocs/
+├── index.php            ← লগইন পেজ
+├── login.php            ← লগইন প্রসেসর
+├── logout.php           ← লগআউট
+├── dashboard.php        ← ভাষা নির্বাচন
+├── en.php               ← শুধু ইংরেজি সংস্করণ
+├── ar.php               ← শুধু আরবি সংস্করণ
+├── bn.php               ← শুধু বাংলা সংস্করণ
+├── config.php           ← পাসওয়ার্ড সেটিংস
+├── auth.php             ← Session চেক
+├── style.css            ← শেয়ার্ড স্টাইল
+├── .htaccess            ← সুরক্ষা
+└── images/              ← ছবি
